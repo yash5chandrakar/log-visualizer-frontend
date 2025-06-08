@@ -9,3 +9,8 @@ Key features:
 🔐 User authentication system for secure and personalized access
 
 Perfect for developers, system admins, and DevOps engineers aiming to troubleshoot faster, improve performance insights, or learn log analysis in depth.
+
+# How to get started
+
+1. Install Dependencies using "npm i".
+2. Run "npm start" and enjoy.
